@@ -1,0 +1,12 @@
+{
+  "author": "Dekizard",
+  "classifications": [ "Web API" ], 
+  "name": "Web Api",
+  "identity": "Api",         
+  "shortName": "api",                 
+  "tags": {
+    "language": "C#"
+  },
+  "sourceName": "ApiTemplate",
+  "preferNameDirectory":"true"
+}
